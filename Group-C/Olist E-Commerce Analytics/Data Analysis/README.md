@@ -7,7 +7,7 @@
 Explore the clean data, run the statistics, find patterns, and document the key insights that answer the project questions.
 
 ## Checklist
-- [ ] Clean dataset imported from the Data Cleaning folder
+- [x] Clean dataset imported from the Data Cleaning folder
 - [ ] Exploratory analysis completed
 - [ ] Key statistics and metrics calculated
 - [ ] Insights documented in plain language
